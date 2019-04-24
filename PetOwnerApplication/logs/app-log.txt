@@ -1,0 +1,233 @@
+2019-04-24 17:12:05.7530|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 17:14:55.0860|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 17:14:55.3116|INFO|PetOwnerApplication.Utilities.Logging|4ae8d9ec-7aa3-4a46-943c-e5b946fe506e:::1:/:Entry
+2019-04-24 17:14:57.5078|INFO|PetOwnerApplication.Utilities.Logging|d77a2b87-7aca-45a0-811d-fafa66487def:::1:/:Exit
+2019-04-24 17:17:22.0240|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 17:17:22.2345|INFO|PetOwnerApplication.Utilities.Logging|973443a1-07f9-44f1-90ae-88abc9503496:::1:/:Entry
+2019-04-24 17:17:23.4052|INFO|PetOwnerApplication.Utilities.Logging|54eb5422-16f6-4ded-a981-cee933bdb777:::1:/:Exit
+2019-04-24 18:36:58.6130|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 18:36:58.8517|INFO|PetOwnerApplication.Utilities.Logging|0fb48f7d-178d-429e-8665-3cfced5819a5:::1:/:Entry
+2019-04-24 18:37:00.4584|INFO|PetOwnerApplication.Utilities.Logging|0a86d752-6239-48f9-86e0-9c292dc68cd8:::1:/:Exit
+2019-04-24 18:45:07.3762|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 18:45:07.6038|INFO|PetOwnerApplication.Utilities.Logging|2e6880b7-eefa-4af8-83c3-88a6d459ccab:::1:/:Entry
+2019-04-24 18:45:08.9372|INFO|PetOwnerApplication.Utilities.Logging|0f5370f5-43a4-447d-a408-a89221734102:::1:/:Exit
+2019-04-24 18:56:48.1314|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 18:56:48.3590|INFO|PetOwnerApplication.Utilities.Logging|10ec0fa6-d6c8-4300-b35f-f2b128d931a4:::1:/:Entry
+2019-04-24 18:56:49.4281|INFO|PetOwnerApplication.Utilities.Logging|fe2c278e-1271-4128-b8ea-50b9e93fe352:::1:/:Exit
+2019-04-24 22:06:10.5872|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:06:10.8118|INFO|PetOwnerApplication.Utilities.Logging|886b1f96-a5f6-4836-8ecf-0da65e80ee26:::1:/:Entry
+2019-04-24 22:06:15.2018|INFO|PetOwnerApplication.Utilities.Logging|585a1fea-2c5b-4189-8047-8b933cf5af40:::1:/:Exit
+2019-04-24 22:06:22.5453|INFO|PetOwnerApplication.Utilities.Logging|63887805-5b52-46e4-9620-587ae9e4a736:::1:/:Entry
+2019-04-24 22:06:22.5553|INFO|PetOwnerApplication.Utilities.Logging|b66de363-1ec8-41bc-8810-f3e55f6e1c64:::1:/:Exit
+2019-04-24 22:06:25.2319|INFO|PetOwnerApplication.Utilities.Logging|034a6161-6031-457d-b720-1581c2012a2e:::1:/:Entry
+2019-04-24 22:06:25.2419|INFO|PetOwnerApplication.Utilities.Logging|a3ba720d-612e-4d9a-836f-621d309497a2:::1:/:Exit
+2019-04-24 22:06:26.8409|INFO|PetOwnerApplication.Utilities.Logging|5629654e-374e-4784-818f-3081657c721e:::1:/:Entry
+2019-04-24 22:06:26.8409|INFO|PetOwnerApplication.Utilities.Logging|908a57bd-7eb7-4e03-adb5-c2b22c215124:::1:/:Exit
+2019-04-24 22:06:27.9889|INFO|PetOwnerApplication.Utilities.Logging|6b172d36-70e3-46ee-a5ff-4272acd1ad1c:::1:/:Entry
+2019-04-24 22:06:27.9929|INFO|PetOwnerApplication.Utilities.Logging|c27cda37-5e42-441c-879f-5c87d928f091:::1:/:Exit
+2019-04-24 22:07:23.5710|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:07:23.8036|INFO|PetOwnerApplication.Utilities.Logging|217b2bef-d16b-45d6-9e6a-27d1b44f6414:::1:/PetDetails/Index:Entry
+2019-04-24 22:07:25.1773|INFO|PetOwnerApplication.Utilities.Logging|7897bf68-df21-4d47-a4bf-291c73b6ab8d:::1:/PetDetails/Index:Exit
+2019-04-24 22:18:44.0017|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:18:44.2263|INFO|PetOwnerApplication.Utilities.Logging|09743f77-02ff-4aa1-aff9-73d8fd8a6070:::1:/:Entry
+2019-04-24 22:18:44.6555|INFO|PetOwnerApplication.Utilities.Logging|8271821d-3db5-43b2-8a7f-edb3b7897bdb:::1:/:Exit
+2019-04-24 22:19:47.0843|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:19:47.3089|INFO|PetOwnerApplication.Utilities.Logging|98901400-a7b1-417a-b09b-df67e255a728:::1:/:Entry
+2019-04-24 22:22:41.5039|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:22:41.7275|INFO|PetOwnerApplication.Utilities.Logging|1bc4611d-2bc4-4841-9f41-25f98e880ede:::1:/:Entry
+2019-04-24 22:22:45.2219|INFO|PetOwnerApplication.Utilities.Logging|a5099895-aaa7-4960-8539-37a7f50d4099:::1:/:Exit
+2019-04-24 22:24:19.7792|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:24:20.0208|INFO|PetOwnerApplication.Utilities.Logging|98b95570-0a84-47b4-87f2-a9389e1b2d5f:::1:/:Entry
+2019-04-24 22:30:41.2831|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:30:41.5058|INFO|PetOwnerApplication.Utilities.Logging|b9095314-bb98-4655-bcad-e49cd432f5bb:::1:/:Entry
+2019-04-24 22:30:44.7416|INFO|PetOwnerApplication.Utilities.Logging|6ae8ef0a-8fb4-4f5c-a92b-8c72beb7535c:::1:/:Exit
+2019-04-24 22:47:38.1062|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:47:38.3358|INFO|PetOwnerApplication.Utilities.Logging|fcc99ae2-26d0-4ec7-8c61-ff8ac8d4fced:::1:/:Entry
+2019-04-24 22:47:43.2978|INFO|PetOwnerApplication.Utilities.Logging|1538e538-26b2-410f-bfc3-596dbe5d98ae:::1:/:Exit
+2019-04-24 22:53:58.0322|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:53:58.2517|INFO|PetOwnerApplication.Utilities.Logging|dd3d9c87-91f5-4cbb-b413-77b1d8eddbf0:::1:/:Entry
+2019-04-24 22:54:01.1624|INFO|PetOwnerApplication.Utilities.Logging|7eb9530a-5d90-4138-8047-37c96a2052f9:::1:/:Exit
+2019-04-24 22:54:38.8858|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 22:54:39.1305|INFO|PetOwnerApplication.Utilities.Logging|48fa2d1a-abc3-4706-b93f-2f5f473e8744:::1:/:Entry
+2019-04-24 22:54:41.9889|INFO|PetOwnerApplication.Utilities.Logging|26ff5290-a2c8-491d-ac9b-8ceb8f72895b:::1:/:Exit
+2019-04-24 23:17:29.8049|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:17:30.0496|INFO|PetOwnerApplication.Utilities.Logging|65baf24c-4d66-41fe-a5f9-3e7c2e7dd79a:::1:/:Entry
+2019-04-24 23:17:33.0606|INFO|PetOwnerApplication.Utilities.Logging|8f7a3da0-53e4-4706-9bce-6c7dd4f3fdac:::1:/:Exit
+2019-04-24 23:21:34.5394|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:21:34.8312|INFO|PetOwnerApplication.Utilities.Logging|e7e7c87d-276b-4a9a-9961-37866dba7c0b:::1:/:Entry
+2019-04-24 23:21:36.8812|INFO|PetOwnerApplication.Utilities.Logging|581ce4e4-e90a-4d3a-9f9f-a53384d59d03:::1:/:Exit
+2019-04-24 23:21:39.2872|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__0.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:22:03.5715|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:22:03.8733|INFO|PetOwnerApplication.Utilities.Logging|52e31498-8a23-4c60-9b2e-4da5c9da3b9d:::1:/:Entry
+2019-04-24 23:22:05.5741|INFO|PetOwnerApplication.Utilities.Logging|a203dcbe-5ed0-4c82-8e53-8e76fd5ca041:::1:/:Exit
+2019-04-24 23:22:06.7565|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__0.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:25:46.7067|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:25:47.0155|INFO|PetOwnerApplication.Utilities.Logging|f72000c9-a6c1-4581-8c73-276f47a311b5:::1:/:Entry
+2019-04-24 23:25:49.4615|INFO|PetOwnerApplication.Utilities.Logging|50752217-7d71-4c8c-aaa9-22e82cef1629:::1:/:Exit
+2019-04-24 23:25:50.7724|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__0.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:26:33.7864|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:26:34.0942|INFO|PetOwnerApplication.Utilities.Logging|6868d4a7-27fd-4412-91c9-05b4276aed26:::1:/:Entry
+2019-04-24 23:26:36.2495|INFO|PetOwnerApplication.Utilities.Logging|65ca208b-ad12-4a2f-bcd7-5382bcba277b:::1:/:Exit
+2019-04-24 23:26:39.6408|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__0.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:28:23.5032|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:28:23.7859|INFO|PetOwnerApplication.Utilities.Logging|7c60dee1-20ac-4610-9673-afaf01f56926:::1:/:Entry
+2019-04-24 23:28:25.5997|INFO|PetOwnerApplication.Utilities.Logging|188be1dd-fd8f-466a-9aea-476b734da25a:::1:/:Exit
+2019-04-24 23:28:28.3507|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__0.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:29:28.2378|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:29:28.5135|INFO|PetOwnerApplication.Utilities.Logging|2fbe295a-379b-485b-bf94-4d22a46638e4:::1:/:Entry
+2019-04-24 23:29:30.6616|INFO|PetOwnerApplication.Utilities.Logging|3e3dcde6-0667-4a45-af1b-cfd210cb0eee:::1:/:Exit
+2019-04-24 23:29:31.8891|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__0.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 18
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:29:40.2159|INFO|PetOwnerApplication.Utilities.Logging|01599c75-9c52-4123-9480-44e801e6d872:::1:/PetDetails/index:Entry
+2019-04-24 23:36:19.0375|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:39:13.0825|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:40:11.8315|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:42:54.1418|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:42:57.7449|INFO|PetOwnerApplication.Utilities.Logging|bfe70fdf-267f-41b7-bf19-479f65e189ee:::1:/:Entry
+2019-04-24 23:43:00.6621|INFO|PetOwnerApplication.Utilities.Logging|113622f0-eea4-4e83-bb19-4ba048781a12:::1:/:Exit
+2019-04-24 23:43:02.1426|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__1.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 23
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:43:52.2069|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:43:54.8732|INFO|PetOwnerApplication.Utilities.Logging|16daf9c4-5e89-4d0f-8948-ae7156289363:::1:/PetDetails/Index:Entry
+2019-04-24 23:43:56.1096|INFO|PetOwnerApplication.Utilities.Logging|e040970a-6a41-48c1-9bb5-0c9875e99700:::1:/PetDetails/Index:Exit
+2019-04-24 23:43:57.3300|ERROR|PetOwnerApplication.Utilities.Logging|:   at PetOwnerApplication.Controllers.PetDetailsController.<Index>d__1.MoveNext() in C:\Somnath\PetOwnerApplication\PetOwnerApplication\Controllers\PetDetailsController.cs:line 23
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__11_0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_1.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__3()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__5(IAsyncResult asyncResult)
+2019-04-24 23:45:19.8426|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:45:23.9728|INFO|PetOwnerApplication.Utilities.Logging|492e2e42-bbfd-4de2-9cfa-ed672c64be4c:::1:/:Entry
+2019-04-24 23:45:25.7165|INFO|PetOwnerApplication.Utilities.Logging|88b214cf-c5d4-485e-8c3a-f397fda1c360:::1:/:Exit
+2019-04-24 23:45:57.8074|INFO|PetOwnerApplication.Utilities.Logging|CatOwner application started
+2019-04-24 23:45:58.0952|INFO|PetOwnerApplication.Utilities.Logging|783db50c-4c3f-4354-b35b-8d7e837d4029:::1:/:Entry
+2019-04-24 23:46:01.8886|INFO|PetOwnerApplication.Utilities.Logging|71b68e45-c5cd-45d9-b869-bf3feca7ec93:::1:/:Exit

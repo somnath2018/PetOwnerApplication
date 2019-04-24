@@ -1,0 +1,25 @@
+﻿@model IEnumerable<PetOwnerApplication.Models.PetDetail.PetGroup>
+
+@{
+    ViewBag.Title = "Pet Owner Gender With Cat Details";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@if (null != Model && Model.Any())
+{
+    foreach (var pg in Model)
+    {
+        <ul>
+            <li>
+                @pg.GroupName
+                @foreach (string petName in pg.PetNames)
+                {
+                    <ul>
+                        <li>@petName</li>
+                    </ul>
+                }
+            </li>
+        </ul>
+    }
+}
